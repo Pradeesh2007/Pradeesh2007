@@ -21,22 +21,7 @@ Hack The Box Learner
 
 ---
 
-## 🛠️ Current Focus
 
-```yaml
-learning:
-  - AWS
-  - Google Cloud
-  - Terraform
-  - Bash Scripting
-  - Linux Internals
-  - Networking
-  - Cloud Security
-  - Hack The Box
-
-goal:
-  become: "Elite Cloud Security Engineer"
-```
 
 ---
 
