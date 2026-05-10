@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Pradeesh
 
 ```bash
-> whoami
+[pradeesh@arch ~ ]$ whoami
 Cloud & Security Enthusiast
 Linux Enjoyer
 Future Cloud Security Architect
@@ -110,7 +110,6 @@ Neither do terminal tabs.
 
 * 💼 LinkedIn
 * 🧑‍💻 Hack The Box
-* 🌐 GitHub
 
 ---
 
