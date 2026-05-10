@@ -22,22 +22,12 @@ Hack The Box Learner
 ---
 
 
-
-
-
 # 💻 Tech Stack
 
 ### ☁️ Cloud
 
 * AWS
 * Google Cloud
-
-### 🐧 Linux
-
-* Arch Linux
-* BlackArch
-* Kali Linux
-* Bash
 
 ### ⚙️ Tools
 
