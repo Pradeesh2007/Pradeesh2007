@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Pradeesh%20Kumar&section=header&reversal=false&textBg=false&fontColor=4169E1&fontSize=43&fontAlign=50&animation=twinkling">
+
 # 👋 Hey, I’m Pradeesh
 
 ```bash
