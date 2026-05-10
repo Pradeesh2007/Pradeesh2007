@@ -70,8 +70,8 @@ Hack The Box Learner
 ## 📈 GitHub Stats
 
 ```txt
-Learning never stops.
-Neither do terminal tabs.
+Built from curiosity.
+Hardened by Linux.⚡🐧
 ```
 
 ---
