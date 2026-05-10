@@ -14,7 +14,7 @@ Hack The Box Learner
 
 * ☁️ Learning Cloud Engineering & Cloud Security
 * 🔐 Exploring Cybersecurity, Ethical Hacking & Linux
-* 🐧 Arch / BlackArch enthusiast
+* 🐧 I Use Arch BTW
 * ⚙️ Building hands-on skills with Bash, Git, Terraform, AWS & Google Cloud
 * 🧠 Obsessed with understanding *how things actually work*
 * 🌙 Most productive after midnight
