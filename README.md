@@ -87,8 +87,8 @@ Neither do terminal tabs.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn
-* 🧑‍💻 Hack The Box
+* 💼 [LinkedIn](https://www.linkedin.com/in/pradeesh-the-clouder)
+* 🧑‍💻 [HackTheBox](https://profile.hackthebox.com/profile/019d4793-eda9-7352-8e60-d38e7152dcb8)
 
 ---
 
