@@ -23,7 +23,7 @@ Hack The Box Learner
 
 
 
----
+
 
 # 💻 Tech Stack
 
@@ -43,16 +43,20 @@ Hack The Box Learner
 
 * Git & GitHub
 * Terraform
+* Ansible
 * Docker
-* OpenVPN
-* VS Code
+* Linux
+* K8s
+* Jenkins
+* Nmap
+  
 
 ### 🔐 Security
 
 * Hack The Box
 * Networking
 * Linux Hardening
-* Basic Enumeration & Recon
+* Enumeration & Recon
 
 ---
 
