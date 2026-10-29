@@ -1,170 +1,101 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Pradeesh%20Kumar&section=header&reversal=false&textBg=false&fontColor=4169E1&fontSize=43&fontAlign=50&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,45:0d9488,100:020617&text=Pradeesh%20Kumar&fontColor=e2e8f0&fontSize=43&fontAlign=50&animation=twinkling&fontAlignY=38" />
 
-# 👋 Hey, I’m Pradeesh
+# 👁️ Not everything is as it seems.
 
 ```bash
-[pradeesh@arch ~ ]$ whoami
+[pradeesh@arch ~]$ whoami
 
-Founder
-Builder
-Cloud & Security Engineer
-Linux Enthusiast
+Part engineer.
+Part experiment.
+Entirely curious.
 
-[pradeesh@arch ~ ]$
+Status: Building something.
+Sleep: A future problem.
+
+[pradeesh@arch ~]$ _
 ```
 
-I build things, break things, understand why they broke, and build them better.
+I explore systems, chase ideas, and turn random thoughts into things that actually work.
 
-Currently building **Romiro** — while continuing to go deeper into cloud infrastructure, DevOps, security, and systems.
+Sometimes with a plan. Sometimes with a terminal, an AI, and unreasonable confidence.
 
----
+I want to understand what lives beneath the surface — hidden mechanisms, unexpected failures, and details most people overlook.
 
-## ⚡ About Me
-
-* 🚀 Building **Romiro** — a platform focused on making shared living simpler and more trustworthy
-* ☁️ Working with **AWS, Google Cloud, Docker, Kubernetes & Terraform**
-* ⚙️ Exploring **DevOps, infrastructure, automation & CI/CD**
-* 🔐 Deepening my understanding of **cloud security, networking & system security**
-* 🐧 Running **Arch Linux** and learning by breaking things
-* 🧠 Interested in understanding systems beneath the abstraction
-* 🛠️ I prefer building real things over collecting tutorials
-* 🌙 Usually found somewhere between a terminal and an idea
+**I don't wait until I know everything to start building. I build to discover what I don't know.**
 
 ---
 
-## 🏗️ What I’m Building
+## 🕶️ Behind the Terminal
 
-### 🏠 Romiro
-
-**Find Your Kind.**
-
-Romiro is a platform I’m building around one simple idea:
-
-> Finding a place to live should feel less like taking a risk and more like finding where you belong.
-
-The goal is to make discovering rooms, roommates and shared living opportunities more transparent, useful and trustworthy.
-
-**Current focus:**
-
-* Product engineering
-* Secure authentication & authorization
-* PostgreSQL + Supabase
-* Row Level Security
-* Intent-driven experiences
-* Modern React architecture
-* Cloud deployment
-* Security-first product design
-
-More than a project, Romiro is where I’m learning what it actually takes to turn an idea into a product.
+- 🐧 **Arch Linux** — knowing what's running under the hood.
+- 🔐 **Cybersecurity** — question the surface. Inspect the layers beneath.
+- ⚙️ **Systems & Automation** — less repetition, more understanding.
+- ☁️ **Cloud & Infrastructure** — building beyond a single machine.
+- 🤖 **Vibe Coding** — ideas in my head, AI in my workflow, working software on my screen.
+- 🧠 **AI-assisted Engineering** — moving fast without outsourcing my curiosity.
+- ♟️ **Chess** — thinking ahead, occasionally blundering spectacularly.
+- 🌙 **Midnight Experiments** — one small change is never just one small change.
 
 ---
 
-## ☁️ Engineering
+## ⚡ My Kind of Chaos
 
-### Cloud
+> "Give me an idea, a terminal, and a reason not to sleep."
 
-* AWS
-* Google Cloud
-* Cloudflare
-* Networking
-* IAM
-* Infrastructure fundamentals
+I vibe-code, experiment, and follow rabbit holes that were never on the roadmap.
 
-### DevOps & Infrastructure
+A sentence becomes a project. An error becomes an investigation. A random thought becomes something real.
 
-* Docker
-* Kubernetes
-* Terraform
-* Ansible
-* Jenkins
-* Git & GitHub
-* CI/CD
-* Linux
+The goal isn't just to make things look impressive. It's to make them work, understand why, and know what to do when they don't.
 
-### Development
-
-* React
-* Vite
-* JavaScript
-* Tailwind CSS
-* Node.js
-* PostgreSQL
-* Supabase
-
-### Security
-
-* Cloud Security
-* Linux Security
-* Networking
-* Authentication & Authorization
-* PostgreSQL RLS
-* Security-first architecture
-* Enumeration & Recon
-* Hack The Box
+**AI accelerates the build. Curiosity drives the builder.**
 
 ---
 
-## 🧠 How I Think
+## 🌑 The Philosophy
 
-> **“I don’t want shortcuts.
-> I want understanding.”**
+I don't collect technologies just to decorate a profile.
 
-I’m less interested in knowing *what command works* and more interested in knowing **why it works, what happens underneath, and what happens when it fails.**
+I want to understand the layers:
 
-That mindset applies to everything I build.
+`Interface → Logic → Systems → Infrastructure → Network → Security`
 
----
+Every abstraction hides something interesting. Every failure leaves a clue. Every answer opens another question.
 
-## 🎯 The Long Game
-
-I’m not trying to become someone who simply knows a lot of tools.
-
-I want to become someone who can:
-
-**Understand → Design → Build → Secure → Deploy → Scale**
-
-From the first line of code to the infrastructure underneath it.
-
-The technologies will change.
-
-The ability to learn won't.
+I'd rather build, break, investigate, and rebuild than spend forever preparing to begin.
 
 ---
 
-## 🌌 Beyond the Terminal
+## 🧩 Current State
 
-* 🐧 Arch Linux
-* ♟️ Chess
-* 🎬 Movies & anime
-* 🎵 Music
-* 🌙 Late-night building
-* 🧩 Breaking things just to understand them
-
----
-
-## 📊 GitHub
-
-```txt
-Curiosity → Experiment → Break → Understand → Build → Repeat
+```text
+[+] Curiosity       : UNBOUNDED
+[+] Experiments     : ONGOING
+[+] Systems         : UNDER INVESTIGATION
+[+] Ideas           : TOO MANY
+[+] Tabs Open       : CLASSIFIED
+[?] Next Project    : UNKNOWN
 ```
 
 ---
 
-## 📫 Connect
+## 📡 If You Know, You Know.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/pradeesh-the-clouder)
-* 🧑‍💻 [Hack The Box](https://profile.hackthebox.com/profile/019d4793-eda9-7352-8e60-d38e7152dcb8)
-
----
+💼 [LinkedIn](https://www.linkedin.com/in/pradeesh-the-clouder)  
+🧑‍💻 [Hack The Box](https://profile.hackthebox.com/profile/019d4793-eda9-7352-8e60-d38e7152dcb8)
 
 ```bash
-while true; do
-    learn
-    build
+while :; do
+    imagine
+    vibe_code
+    test
     break
-    understand
-    improve
+    investigate
+    rebuild
+    level_up
 done
 ```
 
-### Dreams Demand Discipline.
+**Dreams demand discipline.**
+
+*Not everything interesting needs an explanation.*
